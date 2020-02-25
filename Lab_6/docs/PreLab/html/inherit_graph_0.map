@@ -1,9 +1,0 @@
-<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node1" href="$class_player.html" title="Soyut olarak tanimlanan Player sinifi. " alt="" coords="5,81,64,108"/>
-<area shape="rect" id="node2" href="$class_music_player.html" title="Player sinifindan tureyen MusicPlayer sinifi. " alt="" coords="112,56,207,83"/>
-<area shape="rect" id="node5" href="$class_video_player.html" title="Player sinifindan tureyen VideoPlayer sinifi. " alt="" coords="113,107,205,133"/>
-<area shape="rect" id="node3" href="$class_ipod.html" title="MusicPlayer sinifindan tureyen Ipod sinifi. " alt="" coords="291,5,337,32"/>
-<area shape="rect" id="node4" href="$class_walkman.html" title="MusicPlayer sinifindan tureyen Walkman sinifi. " alt="" coords="275,56,353,83"/>
-<area shape="rect" id="node6" href="$class_bugi_video_player.html" title="VideoPlayer sinifindan tureyen BugiVideoPlayer sinifi. " alt="" coords="255,107,373,133"/>
-<area shape="rect" id="node7" href="$class_v_l_c_video_player.html" title="VideoPlayer sinifindan tureyen VLCVideoPlayer sinifi. " alt="" coords="255,157,373,184"/>
-</map>

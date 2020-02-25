@@ -1,5 +1,0 @@
-<map id="National" name="National">
-<area shape="rect" id="node3" href="$class_furniture_company.html" title="{FurnitureCompany\n||+ FurnitureCompany()\l+ FabricateTable()\l+ FabricateSeat()\l}" alt="" coords="5,359,153,465"/>
-<area shape="rect" id="node4" href="$class_mineral_company.html" title="{MineralCompany\n||+ MineralCompany()\l+ SearchGold()\l+ SearchCoal()\l}" alt="" coords="178,359,317,465"/>
-<area shape="rect" id="node2" href="$class_company.html" title="{Company\n|# m_name\l# m_foundationYear\l|+ Company()\l+ Company()\l+ getName()\l+ setName()\l+ getFoundation()\l+ setFoundation()\l}" alt="" coords="95,5,232,171"/>
-</map>

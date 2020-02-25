@@ -1,8 +1,0 @@
-<map id="Player" name="Player">
-<area shape="rect" id="node2" href="$class_music_player.html" title="Player sinifindan tureyen MusicPlayer sinifi. " alt="" coords="109,336,274,501"/>
-<area shape="rect" id="node5" href="$class_video_player.html" title="Player sinifindan tureyen VideoPlayer sinifi. " alt="" coords="298,336,463,501"/>
-<area shape="rect" id="node3" href="$class_ipod.html" title="MusicPlayer sinifindan tureyen Ipod sinifi. " alt="" coords="5,549,124,700"/>
-<area shape="rect" id="node4" href="$class_walkman.html" title="MusicPlayer sinifindan tureyen Walkman sinifi. " alt="" coords="149,571,255,678"/>
-<area shape="rect" id="node6" href="$class_bugi_video_player.html" title="VideoPlayer sinifindan tureyen BugiVideoPlayer sinifi. " alt="" coords="298,571,445,678"/>
-<area shape="rect" id="node7" href="$class_v_l_c_video_player.html" title="VideoPlayer sinifindan tureyen VLCVideoPlayer sinifi. " alt="" coords="469,549,615,700"/>
-</map>

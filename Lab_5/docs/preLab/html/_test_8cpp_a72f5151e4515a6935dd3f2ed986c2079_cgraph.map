@@ -1,8 +1,0 @@
-<map id="TEST_GoalKeeper" name="TEST_GoalKeeper">
-<area shape="rect" id="node2" href="$class_player.html#ad4abd710fe79c9d0aae4a3f139a4fd10" title="Girilen parametredeki yone dogru hareket(move) fonksiyonlarini calistiran fonksiyon. " alt="" coords="236,5,333,32"/>
-<area shape="rect" id="node3" href="$class_football_player.html#ade5cc8aac499f324bfa72b113139b8b1" title="Sut atmayi saglayan fonksiyon. " alt="" coords="215,56,355,83"/>
-<area shape="rect" id="node4" href="$class_football_player.html#a0d30cb34b8b9e81d5655b7ce908e7005" title="Pas atmayi saglayan fonksiyon. " alt="" coords="217,107,353,133"/>
-<area shape="rect" id="node6" href="$class_goal_keeper.html#a50b8d76627b43870b25bf94acd47d1d4" title="Topu ucarak yakalamayi saglayan fonksiyon. " alt="" coords="189,157,380,184"/>
-<area shape="rect" id="node7" href="$class_goal_keeper.html#ab4d8459adf39b4fa4a7ea22eb4b0b5d5" title="Yillik odemeyi hesaplayan fonksiyon. " alt="" coords="183,209,387,250"/>
-<area shape="rect" id="node5" href="$class_player.html#a90a3451e98e44d31ceee243ce4b8d672" title="Player nesnesinin ismini donduren fonksiyon. " alt="" coords="435,107,553,133"/>
-</map>

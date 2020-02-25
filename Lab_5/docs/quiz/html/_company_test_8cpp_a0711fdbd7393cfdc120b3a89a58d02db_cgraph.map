@@ -1,7 +1,0 @@
-<map id="Test_OtomobileCompany" name="Test_OtomobileCompany">
-<area shape="rect" id="node2" href="$class_company.html#a57eeaf550401b1c01b2a509b25ec8aab" title="Company::getName" alt="" coords="269,5,406,32"/>
-<area shape="rect" id="node3" href="$class_company.html#abffb313848c52485d0f9962211fe5c2b" title="Company::getFoundation" alt="" coords="254,56,421,83"/>
-<area shape="rect" id="node4" href="$class_international.html#aef99a90405f110e9edceb031ca6052ee" title="International::orderTaxPayment\lForAllSubCompaies" alt="" coords="236,107,439,149"/>
-<area shape="rect" id="node5" href="$class_otomobile_company.html#af6f7571cb70888044baae695fc46db48" title="OtomobileCompany::BuildOtomobile" alt="" coords="221,173,453,200"/>
-<area shape="rect" id="node6" href="$class_otomobile_company.html#a4c9c9a3616fe9a19f6b0db47ac2fbe70" title="OtomobileCompany::BuildTruck" alt="" coords="235,224,440,251"/>
-</map>

@@ -1,4 +1,0 @@
-<map id="ForwardPlayer" name="ForwardPlayer">
-<area shape="rect" id="node2" href="$class_football_player.html" title="{FootballPlayer\n|# paymentPerYear\l|+ FootballPlayer()\l+ ~FootballPlayer()\l+ getPaymentPerYear()\l+ Pas()\l+ setPaymentPerYear()\l+ Shot()\l}" alt="" coords="35,204,194,355"/>
-<area shape="rect" id="node3" href="$class_player.html" title="{Player\n|# age\l# name\l|+ Player()\l+ ~Player()\l+ getAge()\l+ getName()\l+ Move()\l}" alt="" coords="67,5,162,156"/>
-</map>

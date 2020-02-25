@@ -1,5 +1,0 @@
-<map id="MusicPlayer" name="MusicPlayer">
-<area shape="rect" id="node3" href="$class_ipod.html" title="MusicPlayer sinifindan tureyen Ipod sinifi. " alt="" coords="5,549,124,700"/>
-<area shape="rect" id="node4" href="$class_walkman.html" title="MusicPlayer sinifindan tureyen Walkman sinifi. " alt="" coords="149,571,255,678"/>
-<area shape="rect" id="node2" href="$class_player.html" title="Soyut olarak tanimlanan Player sinifi. " alt="" coords="67,5,198,288"/>
-</map>
