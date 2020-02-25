@@ -1,0 +1,19 @@
+﻿Build started 03.11.2017 18:59:35.
+     1>Project "D:\2017_2018_Dersler\Guz\ObjectOrientedProgramming_LAB\Lab_3\Quiz_\Quiz_3\Quiz_3\Quiz_3.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt MobilePhone.cpp MobilePhoneTest.cpp
+         MobilePhoneTest.cpp
+         MobilePhone.cpp
+         Generating Code...
+     1>d:\2017_2018_dersler\guz\objectorientedprogramming_lab\lab_3\quiz_\quiz_3\quiz_3\mobilephone.cpp(70): warning C4715: 'MobilePhone::endPhoneCall' : not all control paths return a value
+     1>d:\2017_2018_dersler\guz\objectorientedprogramming_lab\lab_3\quiz_\quiz_3\quiz_3\mobilephone.cpp(110): warning C4715: 'MobilePhone::endVideoCapture' : not all control paths return a value
+     1>d:\2017_2018_dersler\guz\objectorientedprogramming_lab\lab_3\quiz_\quiz_3\quiz_3\mobilephone.cpp(91): warning C4715: 'MobilePhone::takePhoto' : not all control paths return a value
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\2017_2018_Dersler\Guz\ObjectOrientedProgramming_LAB\Lab_3\Quiz_\Quiz_3\Debug\Quiz_3.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\2017_2018_Dersler\Guz\ObjectOrientedProgramming_LAB\Lab_3\Quiz_\Quiz_3\Debug\Quiz_3.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\2017_2018_Dersler\Guz\ObjectOrientedProgramming_LAB\Lab_3\Quiz_\Quiz_3\Debug\Quiz_3.lib" /MACHINE:X86 Debug\MobilePhone.obj
+         Debug\MobilePhoneTest.obj
+         Quiz_3.vcxproj -> D:\2017_2018_Dersler\Guz\ObjectOrientedProgramming_LAB\Lab_3\Quiz_\Quiz_3\Debug\Quiz_3.exe
+     1>Done Building Project "D:\2017_2018_Dersler\Guz\ObjectOrientedProgramming_LAB\Lab_3\Quiz_\Quiz_3\Quiz_3\Quiz_3.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.53

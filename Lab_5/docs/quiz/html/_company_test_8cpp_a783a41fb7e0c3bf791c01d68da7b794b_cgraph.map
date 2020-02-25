@@ -1,0 +1,8 @@
+<map id="Test_AirPlaneCompany" name="Test_AirPlaneCompany">
+<area shape="rect" id="node2" href="$class_company.html#a57eeaf550401b1c01b2a509b25ec8aab" title="Company::getName" alt="" coords="261,5,398,32"/>
+<area shape="rect" id="node3" href="$class_company.html#abffb313848c52485d0f9962211fe5c2b" title="Company::getFoundation" alt="" coords="246,56,413,83"/>
+<area shape="rect" id="node4" href="$class_international.html#aef99a90405f110e9edceb031ca6052ee" title="International::orderTaxPayment\lForAllSubCompaies" alt="" coords="228,107,431,149"/>
+<area shape="rect" id="node5" href="$class_air_plane_company.html#aa6b1a71e60c4df57c7b191327fc63f29" title="AirPlaneCompany::CreatePassenger\lAirPlane" alt="" coords="212,173,447,214"/>
+<area shape="rect" id="node6" href="$class_air_plane_company.html#aae6e50da804e676a5ec7922a8debefe4" title="AirPlaneCompany::CreateCargo\lAirPlane" alt="" coords="226,238,433,279"/>
+<area shape="rect" id="node7" href="$class_air_plane_company.html#a038da7195f23664cbcbccbbb4eaf6506" title="AirPlaneCompany::CreateFighter\lAirPlane" alt="" coords="223,303,435,345"/>
+</map>

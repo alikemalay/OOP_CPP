@@ -1,0 +1,7 @@
+<map id="Player" name="Player">
+<area shape="rect" id="node2" href="$class_football_player.html" title="{FootballPlayer\n|# paymentPerYear\l|+ FootballPlayer()\l+ ~FootballPlayer()\l+ getPaymentPerYear()\l+ Pas()\l+ setPaymentPerYear()\l+ Shot()\l}" alt="" coords="399,204,558,355"/>
+<area shape="rect" id="node3" href="$class_defensive_player.html" title="{DefensivePlayer\n||+ DefensivePlayer()\l+ ~DefensivePlayer()\l+ CalculatePaymentForThisYear()\l+ Defense()\l+ TripUp()\l+ getPlayedMatchCount()\l+ setPlayedMatchCount()\l}" alt="" coords="5,403,224,568"/>
+<area shape="rect" id="node4" href="$class_forward_player.html" title="{ForwardPlayer\n||+ CalculatePaymentForThisYear()\l+ ForwardPlayer()\l+ ~ForwardPlayer()\l+ getGoalCount()\l+ setGoalCount()\l+ ThrowYourSelf()\l+ TryDribblePast()\l}" alt="" coords="248,403,467,568"/>
+<area shape="rect" id="node5" href="$class_goal_keeper.html" title="{GoalKeeper\n||+ CalculatePaymentForThisYear()\l+ FlyAndTryCatch()\l+ GoalKeeper()\l+ ~GoalKeeper()\l}" alt="" coords="491,425,709,546"/>
+<area shape="rect" id="node6" href="$class_middle_fielder_player.html" title="{MiddleFielderPlayer\n||+ MiddleFielderPlayer()\l+ ~MiddleFielderPlayer()\l+ CalculatePaymentForThisYear()\l+ getAssistCount()\l+ setAssistCount()\l+ TryThroughBall()\l+ Press()\l}" alt="" coords="733,403,952,568"/>
+</map>

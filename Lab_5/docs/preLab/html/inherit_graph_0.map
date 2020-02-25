@@ -1,0 +1,8 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$class_player.html" title="Player" alt="" coords="5,81,64,108"/>
+<area shape="rect" id="node2" href="$class_football_player.html" title="FootballPlayer" alt="" coords="112,81,217,108"/>
+<area shape="rect" id="node3" href="$class_defensive_player.html" title="DefensivePlayer" alt="" coords="276,5,391,32"/>
+<area shape="rect" id="node4" href="$class_forward_player.html" title="ForwardPlayer" alt="" coords="281,56,386,83"/>
+<area shape="rect" id="node5" href="$class_goal_keeper.html" title="GoalKeeper" alt="" coords="288,107,379,133"/>
+<area shape="rect" id="node6" href="$class_middle_fielder_player.html" title="MiddleFielderPlayer" alt="" coords="265,157,401,184"/>
+</map>

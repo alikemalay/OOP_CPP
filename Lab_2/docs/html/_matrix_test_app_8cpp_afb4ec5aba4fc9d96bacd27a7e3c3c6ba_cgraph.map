@@ -1,0 +1,11 @@
+<map id="TEST_NORMALIZE" name="TEST_NORMALIZE">
+<area shape="rect" id="node2" href="$_matrix_test_app_8cpp.html#a3e5d3c5da98255ddebfef5d192578f05" title="Basliklari cerceve icinde yazdirir. " alt="" coords="188,5,337,32"/>
+<area shape="rect" id="node4" href="$_matrix_8cpp.html#abcf4a9c2057e600dc20903ce45bdfc50" title="Girilen satir ve sutun sayisi miktarinca matris yapisina heap&#39;den yer ayrilir. " alt="" coords="544,208,656,235"/>
+<area shape="rect" id="node5" href="$_matrix_8cpp.html#a7a47d25f9d3eccff5fa0e91fae844132" title="Iki diziyi elemansal olarak birbirine esitler. " alt="" coords="200,107,325,133"/>
+<area shape="rect" id="node6" href="$_matrix_test_app_8cpp.html#a58aba011cb9ecc53074e513615782540" title="Satir ve sutun boyutlari girilecek matrisin elemanlarini random atar. " alt="" coords="203,157,322,184"/>
+<area shape="rect" id="node7" href="$_matrix_8cpp.html#ad3afa0d9e837cf6db5be00468e22bf33" title="Gelen diziyi ekranda yazdirir. " alt="" coords="209,208,317,235"/>
+<area shape="rect" id="node8" href="$_matrix_8cpp.html#a72504e17c9163143c410e86473565acf" title="Bir diziyi, tum elemanlarinin karelerinin toplaminin karekokune bolup baska bir dizide gostermek..." alt="" coords="201,259,324,285"/>
+<area shape="rect" id="node10" href="$_matrix_8cpp.html#a093df2e2ef3279df57295e5222c5f186" title="Heap&#39;de yer ayrilmis matrisi adresleri ve adres tutuculari siler. " alt="" coords="217,309,308,336"/>
+<area shape="rect" id="node3" href="$_matrix_test_app_8cpp.html#a41f3fd4121178b3050bb0087d149bf1f" title="Ekranda &#39;+&#39;,&#39;&#45;&#39; ile basliklara cerceve olusturmak icin kullanilir. " alt="" coords="385,5,496,32"/>
+<area shape="rect" id="node9" href="$_matrix_8cpp.html#ab90bb0de876309aa932b6cd7d20a0955" title="Dizinin tum elemanlarini skaler bir deger ile boler. " alt="" coords="386,259,495,285"/>
+</map>

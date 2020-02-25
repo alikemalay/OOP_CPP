@@ -1,0 +1,4 @@
+<map id="OtomobileCompany" name="OtomobileCompany">
+<area shape="rect" id="node2" href="$class_international.html" title="{International\n|# m_numberOfTradingCountry\l|+ International()\l+ orderTaxPaymentForAllSub\lCompaies()\l}" alt="" coords="5,219,200,325"/>
+<area shape="rect" id="node3" href="$class_company.html" title="{Company\n|# m_name\l# m_foundationYear\l|+ Company()\l+ Company()\l+ getName()\l+ setName()\l+ getFoundation()\l+ setFoundation()\l}" alt="" coords="34,5,171,171"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="TEST_MiddleFielderPlayer" name="TEST_MiddleFielderPlayer">
+<area shape="rect" id="node2" href="$class_player.html#ad4abd710fe79c9d0aae4a3f139a4fd10" title="Girilen parametredeki yone dogru hareket(move) fonksiyonlarini calistiran fonksiyon. " alt="" coords="283,5,380,32"/>
+<area shape="rect" id="node3" href="$class_football_player.html#ade5cc8aac499f324bfa72b113139b8b1" title="Sut atmayi saglayan fonksiyon. " alt="" coords="261,56,401,83"/>
+<area shape="rect" id="node4" href="$class_football_player.html#a0d30cb34b8b9e81d5655b7ce908e7005" title="Pas atmayi saglayan fonksiyon. " alt="" coords="263,107,399,133"/>
+<area shape="rect" id="node6" href="$class_middle_fielder_player.html#a5eb8734282b2fc0dd56dba6d986c3704" title="Baski yapmaya yarayan fonksiyon. " alt="" coords="263,158,399,199"/>
+<area shape="rect" id="node7" href="$class_middle_fielder_player.html#a5cf56e7f05aab13b2af354cd222593f4" title="Top atmayi deneyen fonksiyon. " alt="" coords="263,223,399,265"/>
+<area shape="rect" id="node8" href="$class_middle_fielder_player.html#a10164db34e6f19c0003cd88b85aab8b9" title="Assist sayisini duzenlemeye yarayan fonksiyon. " alt="" coords="263,289,399,330"/>
+<area shape="rect" id="node9" href="$class_middle_fielder_player.html#a4fb60d261bd3040a0385268e8efcf564" title="Yillik odemeyi hesaplayan fonksiyon. " alt="" coords="228,354,435,395"/>
+<area shape="rect" id="node5" href="$class_player.html#a90a3451e98e44d31ceee243ce4b8d672" title="Player nesnesinin ismini donduren fonksiyon. " alt="" coords="483,169,601,196"/>
+</map>

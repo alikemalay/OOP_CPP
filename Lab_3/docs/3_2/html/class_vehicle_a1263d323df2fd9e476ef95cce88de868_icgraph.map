@@ -1,0 +1,5 @@
+<map id="Vehicle::getCurrentPassengerNumber" name="Vehicle::getCurrentPassengerNumber">
+<area shape="rect" id="node2" href="$_vehicle_test_main_8cpp.html#a87621262a7289be0ba345010752d0902" title="Vehicle::GetIn fonksiyonunu test eder. " alt="" coords="253,5,345,32"/>
+<area shape="rect" id="node4" href="$_vehicle_test_main_8cpp.html#a1159a64cc29038abf89b482cd8e4e5c0" title="Vehicle::GetOut fonksiyonunu test eder. " alt="" coords="248,56,351,83"/>
+<area shape="rect" id="node3" href="$_vehicle_test_main_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title="main" alt="" coords="399,31,449,57"/>
+</map>

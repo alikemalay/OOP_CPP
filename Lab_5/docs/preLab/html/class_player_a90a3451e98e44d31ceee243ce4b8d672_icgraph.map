@@ -1,0 +1,11 @@
+<map id="Player::getName" name="Player::getName">
+<area shape="rect" id="node2" href="$class_defensive_player.html#a8eeeb0322023ea3e946ac39bb58ff9cc" title="Engel yapmayi saglayan fonksiyon. " alt="" coords="192,5,351,32"/>
+<area shape="rect" id="node5" href="$class_football_player.html#a0d30cb34b8b9e81d5655b7ce908e7005" title="Pas atmayi saglayan fonksiyon. " alt="" coords="203,56,339,83"/>
+<area shape="rect" id="node9" href="$class_forward_player.html#a98f8c69779311414f03d69a2cdac16f1" title="Top surerek pas atmayi saglayan fonksiyon. " alt="" coords="172,173,371,200"/>
+<area shape="rect" id="node10" href="$class_middle_fielder_player.html#a5cf56e7f05aab13b2af354cd222593f4" title="Top atmayi deneyen fonksiyon. " alt="" coords="203,107,339,149"/>
+<area shape="rect" id="node3" href="$_test_8cpp.html#ac36538f37e1a49ae1f42e323522240df" title="DefensivePlayer, MiddleFielderPlayer ve ForwardPlayer nesneleri yaratilarak fonksiyonlarinin test edi..." alt="" coords="429,5,583,32"/>
+<area shape="rect" id="node4" href="$_test_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title="main" alt="" coords="641,81,692,108"/>
+<area shape="rect" id="node6" href="$_test_8cpp.html#a72f5151e4515a6935dd3f2ed986c2079" title="GoalKeeper ve DefensivePlayer nesneleri yaratilarak fonksiyonlarinin test edildigi baska bir fonksiyo..." alt="" coords="441,56,571,83"/>
+<area shape="rect" id="node7" href="$_test_8cpp.html#abb65a180781c150e81fb1f191fb40d6a" title="MiddleFielderPlayer ve ForwardPlayer nesneleri yaratilarak fonksiyonlarinin test edildigi baska bir f..." alt="" coords="419,107,593,133"/>
+<area shape="rect" id="node8" href="$_test_8cpp.html#adf1b9a7d7890953217c852ba9ab0b417" title="ForwardPlayer ve DefensivePlayer nesneleri yaratilarak fonksiyonlarinin test edildigi baska bir fonks..." alt="" coords="434,157,578,184"/>
+</map>

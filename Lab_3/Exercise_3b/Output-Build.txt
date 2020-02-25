@@ -1,0 +1,4 @@
+﻿1>------ Build started: Project: Project3, Configuration: Debug Win32 ------
+1>  01.cpp
+1>  Project3.vcxproj -> D:\2017_2018_Dersler\Guz\ObjectOrientedProgramming\Hafta_4\KolaMakinesi\Project3\Debug\Project3.exe
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========

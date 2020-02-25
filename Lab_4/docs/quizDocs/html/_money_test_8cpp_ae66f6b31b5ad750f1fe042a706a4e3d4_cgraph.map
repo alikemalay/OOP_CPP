@@ -1,0 +1,12 @@
+<map id="main" name="main">
+<area shape="rect" id="node2" href="$_money_test_8cpp.html#a197f3778d98a542536f7593e361b6dc5" title="money nesnesinin &gt;&gt; giris operatorunu test eder. " alt="" coords="165,5,254,32"/>
+<area shape="rect" id="node3" href="$_money_test_8cpp.html#afcc05db38d8779ab6a707e48f3953687" title="money nesnesinin &lt;&lt; cikti operatorunu test eder. " alt="" coords="159,56,259,83"/>
+<area shape="rect" id="node4" href="$_money_test_8cpp.html#a7a4d4695ae6c0d72a60ffccba2423310" title="2 money nesnesinin birbiri ile + toplama operatorunu test eder. " alt="" coords="159,107,260,133"/>
+<area shape="rect" id="node5" href="$_money_test_8cpp.html#ac3d83a9f84aa22432d09786ade356723" title="2 money nesnesinin birbiriyle toplayip ustune esitlemesini += operatoru ile test eder. " alt="" coords="146,157,273,184"/>
+<area shape="rect" id="node6" href="$_money_test_8cpp.html#a935adb3f0ad623778e27a5794b4863d9" title="money nesnesinin saibt bir deger ile + toplama operatorunu test eder. " alt="" coords="129,208,289,235"/>
+<area shape="rect" id="node7" href="$_money_test_8cpp.html#a69e6fa88a4a2b9cb81e6f9fc465e4888" title="money nesnesinin sabit bir deger ile += toplayip esitleme operatorunu test eder. " alt="" coords="116,259,303,285"/>
+<area shape="rect" id="node8" href="$_money_test_8cpp.html#a704723cbefe7c08305567ec3d3da96bf" title="2 money nesnesinin birbirinden cikarilmasini &#45; operatoru ile test eder. " alt="" coords="143,309,276,336"/>
+<area shape="rect" id="node9" href="$_money_test_8cpp.html#a0f55d50cb889bea2fb17302724b26dec" title="2 money nesnesinin birbirinden cikarip ustune esitlemesini &#45;= operatoru ile test eder. " alt="" coords="130,360,289,387"/>
+<area shape="rect" id="node10" href="$_money_test_8cpp.html#a4ec67e75bf9dec5ca6d42fd64657d6f8" title="money nesnesinin bir sayidan cikarilmasini &#45; operatoru ile test eder. " alt="" coords="117,411,302,437"/>
+<area shape="rect" id="node11" href="$_money_test_8cpp.html#acbb436db1f3975dc2620876beff3aaf2" title="money nesnesini sabit bir degerden cikarip ustune esitlemesini &#45;= operatoru ile test eder..." alt="" coords="104,461,315,488"/>
+</map>

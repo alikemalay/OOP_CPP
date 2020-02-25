@@ -1,0 +1,6 @@
+<map id="main" name="main">
+<area shape="rect" id="node2" href="$class_shape_placer.html#a1c2ba3e51f42c94eb79a3d14c8407677" title="Listeye sekil eklemeye yarayan fonksiyon. " alt="" coords="104,5,293,32"/>
+<area shape="rect" id="node3" href="$class_shape_placer.html#ac8c3fe2f207aef171797e3604e0cdf1e" title="Listedeki sekillerin bilgilerini gosteren fonksiyon. " alt="" coords="113,57,285,98"/>
+<area shape="rect" id="node4" href="$class_shape_placer.html#a60f7e9f61b14b3fb2310d954df33f1b9" title="Girilen alana en uygun sekilin bilgilerini gosteren fonksiyon. " alt="" coords="109,122,288,163"/>
+<area shape="rect" id="node5" href="$class_shape.html#a431754da9fcc176fc57bfff3fb2f6473" title="Sekil bilgilerini veren fonksiyon. " alt="" coords="105,188,292,215"/>
+</map>

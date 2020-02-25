@@ -1,0 +1,5 @@
+<map id="VideoPlayer" name="VideoPlayer">
+<area shape="rect" id="node3" href="$class_bugi_video_player.html" title="VideoPlayer sinifindan tureyen BugiVideoPlayer sinifi. " alt="" coords="5,571,152,678"/>
+<area shape="rect" id="node4" href="$class_v_l_c_video_player.html" title="VideoPlayer sinifindan tureyen VLCVideoPlayer sinifi. " alt="" coords="177,549,322,700"/>
+<area shape="rect" id="node2" href="$class_player.html" title="Soyut olarak tanimlanan Player sinifi. " alt="" coords="99,5,229,288"/>
+</map>

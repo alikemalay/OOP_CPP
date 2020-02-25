@@ -1,0 +1,9 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$class_company.html" title="Company" alt="" coords="5,81,83,108"/>
+<area shape="rect" id="node2" href="$class_international.html" title="International" alt="" coords="131,56,223,83"/>
+<area shape="rect" id="node5" href="$class_national.html" title="National" alt="" coords="142,107,211,133"/>
+<area shape="rect" id="node3" href="$class_air_plane_company.html" title="AirPlaneCompany" alt="" coords="275,5,402,32"/>
+<area shape="rect" id="node4" href="$class_otomobile_company.html" title="OtomobileCompany" alt="" coords="271,56,407,83"/>
+<area shape="rect" id="node6" href="$class_furniture_company.html" title="FurnitureCompany" alt="" coords="275,107,403,133"/>
+<area shape="rect" id="node7" href="$class_mineral_company.html" title="MineralCompany" alt="" coords="279,157,398,184"/>
+</map>

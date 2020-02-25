@@ -1,0 +1,7 @@
+<map id="Test_FurnitureCompany" name="Test_FurnitureCompany">
+<area shape="rect" id="node2" href="$class_company.html#a57eeaf550401b1c01b2a509b25ec8aab" title="Company::getName" alt="" coords="253,5,391,32"/>
+<area shape="rect" id="node3" href="$class_company.html#abffb313848c52485d0f9962211fe5c2b" title="Company::getFoundation" alt="" coords="239,56,405,83"/>
+<area shape="rect" id="node4" href="$class_national.html#a23f216acf80fe59161323e0d8712aefd" title="National::payTax" alt="" coords="263,107,381,133"/>
+<area shape="rect" id="node5" href="$class_furniture_company.html#a47c4f30ef4e75a17e23363bbf7624911" title="FurnitureCompany::FabricateSeat" alt="" coords="213,157,431,184"/>
+<area shape="rect" id="node6" href="$class_furniture_company.html#ae71c4268929e8b1474597eae8d87c565" title="FurnitureCompany::Fabricate\lTable" alt="" coords="227,209,417,250"/>
+</map>

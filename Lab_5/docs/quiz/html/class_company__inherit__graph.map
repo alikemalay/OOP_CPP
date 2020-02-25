@@ -1,0 +1,8 @@
+<map id="Company" name="Company">
+<area shape="rect" id="node2" href="$class_international.html" title="{International\n|# m_numberOfTradingCountry\l|+ International()\l+ orderTaxPaymentForAllSub\lCompaies()\l}" alt="" coords="201,219,395,325"/>
+<area shape="rect" id="node5" href="$class_national.html" title="{National\n|# m_country\l|+ National()\l+ payTax()\l}" alt="" coords="427,226,521,318"/>
+<area shape="rect" id="node3" href="$class_air_plane_company.html" title="{AirPlaneCompany\n||+ AirPlaneCompany()\l+ CreatePassengerAirPlane()\l+ CreateCargoAirPlane()\l+ CreateFighterAirPlane()\l}" alt="" coords="5,373,196,495"/>
+<area shape="rect" id="node4" href="$class_otomobile_company.html" title="{OtomobileCompany\n||+ OtomobileCompany()\l+ BuildOtomobile()\l+ BuildTruck()\l}" alt="" coords="220,381,376,487"/>
+<area shape="rect" id="node6" href="$class_furniture_company.html" title="{FurnitureCompany\n||+ FurnitureCompany()\l+ FabricateTable()\l+ FabricateSeat()\l}" alt="" coords="400,381,548,487"/>
+<area shape="rect" id="node7" href="$class_mineral_company.html" title="{MineralCompany\n||+ MineralCompany()\l+ SearchGold()\l+ SearchCoal()\l}" alt="" coords="573,381,711,487"/>
+</map>

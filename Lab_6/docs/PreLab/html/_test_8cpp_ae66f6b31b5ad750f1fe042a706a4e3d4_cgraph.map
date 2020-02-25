@@ -1,0 +1,14 @@
+<map id="main" name="main">
+<area shape="rect" id="node2" href="$_test_8cpp.html#abf5d3d9631d42893a4d175bd3f455704" title="Olusturulan tum siniflarin test edildigi fonksiyon. " alt="" coords="104,259,199,285"/>
+<area shape="rect" id="node3" href="$class_player.html#ad75002c2b169baef5c6e6c37f6c8338d" title="Oynaticiyi acmaya yarayan fonksiyon. " alt="" coords="270,5,369,32"/>
+<area shape="rect" id="node4" href="$class_player.html#a2b436cbc92d688fac30400343761b117" title="Oynaticiya medyayi takmayi saglayan fonksiyon. " alt="" coords="247,56,392,83"/>
+<area shape="rect" id="node5" href="$class_player.html#ac9107806ed64e99d2229566bafbf7b6b" title="Oynaticida belirli miktarda ses arttirmayi saglayan fonksiyon. " alt="" coords="256,107,383,133"/>
+<area shape="rect" id="node6" href="$class_player.html#a97133edea4acda13542bb4574226fc09" title="Oynaticida belirli miktarda ses azaltmayi saglayan fonksiyon. " alt="" coords="248,157,391,184"/>
+<area shape="rect" id="node7" href="$class_player.html#a4825a137b0a59cc8f968a6e8b997ffa0" title="Oynaticidaki medyayi calmaya yarayan fonksiyon. " alt="" coords="273,208,366,235"/>
+<area shape="rect" id="node8" href="$class_player.html#af36f2beab72be1c51c622e64a6955c95" title="Oynaticidaki calinan medyayi duraklatmaya yarayan fonksiyon. " alt="" coords="267,259,371,285"/>
+<area shape="rect" id="node9" href="$class_player.html#a112dce5f001c5e7b3f006f078e89ce3c" title="Oynaticidaki calinan medyayi durdurmaya yarayan fonksiyon. " alt="" coords="272,309,367,336"/>
+<area shape="rect" id="node10" href="$class_player.html#ae206705aa92a8589921733aafd025ed1" title="Oynaticida bir sonraki sarkiya gecmeye yarayan fonksiyon. " alt="" coords="263,360,376,387"/>
+<area shape="rect" id="node11" href="$class_player.html#a3bc81635e89303379fc5f7e4cc3e7843" title="Oynaticida bir onceki sarkiya gecmeye yarayan fonksiyon. " alt="" coords="255,411,383,437"/>
+<area shape="rect" id="node12" href="$class_player.html#a098cb1f9ffa505a220dbc72c44083578" title="Oynaticidan medyayi cikartan fonksiyon. " alt="" coords="253,461,385,488"/>
+<area shape="rect" id="node13" href="$class_player.html#a8d1f6bfcb8a85eee8546fdf2d1999e5a" title="Oynaticiyi kapatmaya yarayan fonksiyon. " alt="" coords="269,512,369,539"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="Test_MineralCompany" name="Test_MineralCompany">
+<area shape="rect" id="node2" href="$class_company.html#a57eeaf550401b1c01b2a509b25ec8aab" title="Company::getName" alt="" coords="233,5,370,32"/>
+<area shape="rect" id="node3" href="$class_company.html#abffb313848c52485d0f9962211fe5c2b" title="Company::getFoundation" alt="" coords="218,56,385,83"/>
+<area shape="rect" id="node4" href="$class_national.html#a23f216acf80fe59161323e0d8712aefd" title="National::payTax" alt="" coords="242,107,361,133"/>
+<area shape="rect" id="node5" href="$class_mineral_company.html#af8283c1539bbb5f0671e8484f99daae0" title="MineralCompany::SearchCoal" alt="" coords="204,157,399,184"/>
+<area shape="rect" id="node6" href="$class_mineral_company.html#ac73acdaa88e8cf13c8ed4c7a991525f8" title="MineralCompany::SearchGold" alt="" coords="204,208,399,235"/>
+</map>
